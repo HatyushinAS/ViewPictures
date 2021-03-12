@@ -1,0 +1,20 @@
+G:\cc\ViewPictures\ViewPictures\bin\Debug\ViewPictures.exe.config
+G:\cc\ViewPictures\ViewPictures\bin\Debug\ViewPictures.exe
+G:\cc\ViewPictures\ViewPictures\bin\Debug\ViewPictures.pdb
+G:\cc\ViewPictures\ViewPictures\obj\Debug\ViewPictures.csprojAssemblyReference.cache
+G:\cc\ViewPictures\ViewPictures\obj\Debug\ViewPictures.ViewPicture.resources
+G:\cc\ViewPictures\ViewPictures\obj\Debug\ViewPictures.Properties.Resources.resources
+G:\cc\ViewPictures\ViewPictures\obj\Debug\ViewPictures.csproj.GenerateResource.cache
+G:\cc\ViewPictures\ViewPictures\obj\Debug\ViewPictures.csproj.CoreCompileInputs.cache
+G:\cc\ViewPictures\ViewPictures\obj\Debug\ViewPictures.exe
+G:\cc\ViewPictures\ViewPictures\obj\Debug\ViewPictures.pdb
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\bin\Debug\ViewPictures.exe.config
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\bin\Debug\ViewPictures.exe
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\bin\Debug\ViewPictures.pdb
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\obj\Debug\ViewPictures.csprojAssemblyReference.cache
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\obj\Debug\ViewPictures.ViewPicture.resources
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\obj\Debug\ViewPictures.Properties.Resources.resources
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\obj\Debug\ViewPictures.csproj.GenerateResource.cache
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\obj\Debug\ViewPictures.csproj.CoreCompileInputs.cache
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\obj\Debug\ViewPictures.exe
+C:\Docs\Visual Studio\ViewPictures\ViewPictures\obj\Debug\ViewPictures.pdb
